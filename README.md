@@ -125,7 +125,7 @@ No GPU. No cloud subscription. Runs on a standard VM or low-cost mini PC.
 **1 — Clone and install dependencies**
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/sme-security-guardian
+git clone https://github.com/HarshilPatel04/sme-security-guardian
 cd sme-security-guardian
 pip3 install flask requests
 ```
